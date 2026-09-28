@@ -1,4 +1,4 @@
-# 👨‍💻 Emerson Souza
+# Emerson Souza
 
 `Técnico de TI | Cloud & DevOps em formação`
 
