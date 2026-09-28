@@ -17,7 +17,3 @@ Me chamo Emerson Souza, atuo como Técnico de Suporte de TI com foco em infraest
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📫 linkedin
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emersonsf)
